@@ -1,2 +1,1 @@
-# CODES
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+“This repository contains coding practice questions. Clone it using git clone https://github.com/ayushsondhiya/CODES.git. Each question has a problem description and solution. Contributions are welcome. For queries, contact sanjusondhiya16@gmail.com. Happy Coding!”
